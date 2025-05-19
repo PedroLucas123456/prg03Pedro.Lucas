@@ -7,7 +7,7 @@ import java.lang.Math;
 
 /**
  *
- * @author rober
+ * @author PedroLucas
  */
 
 /**

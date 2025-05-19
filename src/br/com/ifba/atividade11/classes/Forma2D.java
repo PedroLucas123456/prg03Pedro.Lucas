@@ -6,7 +6,7 @@ package br.com.ifba.atividade11.classes;
 
 /**
  *
- * @author rober
+ * @author PedroLucas
  */
 
 /**

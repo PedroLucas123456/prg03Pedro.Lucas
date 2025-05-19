@@ -10,7 +10,7 @@ import br.com.ifba.atividade11.classes.Circulo;
 
 /**
  *
- * @author rober
+ * @author PedroLucas
  */
 public class Teste2D {
     public static void main(String[] args) {

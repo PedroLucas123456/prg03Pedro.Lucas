@@ -11,7 +11,7 @@ import br.com.ifba.atividade11.classes.Piramide;
 
 /**
  *
- * @author rober
+ * @author PedroLucas
  */
 public class Teste3D {
     public static void main(String[] args) {
